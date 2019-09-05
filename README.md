@@ -1,3 +1,13 @@
+
+
+IDEA配置：
+https://mp.weixin.qq.com/s/fHfG6BNd74-N9Fk7KSJ7ig
+
+插件：
+https://mp.weixin.qq.com/s/WtRR8BdtZXTR0iBp0MhKYw
+激活：
+https://zhile.io/2018/08/17/jetbrains-license-server-crack.html
+
 > 
 > spring boot 2.1.4<br />
 > spring cloud Greenwich.SR1<br />
